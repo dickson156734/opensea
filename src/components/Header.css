@@ -9,8 +9,8 @@
 .header > div{
     margin: 10px;
 }
-.logoContainer{
-    width: 100px;
+.logoContainer > img{
+    width: 200px;
 }
 .searchBar{
     background-color: #1c1c1e;

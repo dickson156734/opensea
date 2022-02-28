@@ -1,0 +1,39 @@
+.collectionCard{
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    overflow: hidden;
+    width: 200px;
+    border-style: dotted;
+    border-color: white;
+}
+.collectionCard > img{
+    width: 100%;
+}
+.priceContainer{
+    display: flex;
+    flex-direction: row;
+    border-style: dotted;
+    border-color: white;
+    width: 12px;
+}
+.card_name{
+    color:white;
+    font-weight: bold;
+    border-color: white;
+    border-width: 2;
+}
+.card_price{
+    margin-left: 5px;
+    font-weight: 600;
+}
+.card_details{
+    padding: 20px;
+}
+.card_id{
+    color:darkgray;
+}
+.wethImage{
+    height: 23px;
+    width: 15px;
+}
